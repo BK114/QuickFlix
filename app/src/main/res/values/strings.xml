@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickFlix</string>
+    <string name="menu_top_rated">Top Rated</string>
+    <string name="menu_popular">Most Popular</string>
+    <string name="poster_description">Poster Image</string>
+    <string name="star_description">Star Rating</string>
+
+</resources>
